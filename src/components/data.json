@@ -1,0 +1,32 @@
+[
+
+    {
+        "name": "Ankit Gupta",
+        "maths":88,
+        "physics":32,
+        "chemistry":54,
+        "Biology":67
+    },
+    {
+        "name": "Kavi Gupta",
+        "maths":88,
+        "physics":32,
+        "chemistry":54,
+        "Biology":67
+    },
+    {
+        "name": "Hemant Gupta",
+        "maths":88,
+        "physics":32,
+        "chemistry":54,
+        "Biology":67
+    },
+    {
+        "name": "Farhan Gupta",
+        "maths":88,
+        "physics":32,
+        "chemistry":54,
+        "Biology":67
+    }
+
+]
